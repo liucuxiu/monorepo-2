@@ -7,6 +7,9 @@
   },
   "scripts": {
     "build": "tsc index.ts --outDir dist",
-    "test": "echo \"Testing is-odd\" && exit 1"
+    "test": "echo \"Testing is-odd\""
+  },
+  "dependencies": {
+    "is-even": "*"
   }
 }
