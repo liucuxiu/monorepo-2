@@ -8,5 +8,8 @@
   "scripts": {
     "build": "tsc index.ts --outDir dist",
     "test": "echo \"Testing is-odd\""
+  },
+  "dependencies": {
+    "is-even": "*"
   }
 }

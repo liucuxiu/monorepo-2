@@ -4,4 +4,4 @@ export const isOdd = (x: number) => !isEven(x);
 console.log(isOdd(2));
 console.log(isOdd(3));
 
-console.log('---');
+console.log('1');
